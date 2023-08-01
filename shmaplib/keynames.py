@@ -276,7 +276,11 @@ class DataContainer(object):
         u'pause': ['PAUSE_BREAK'],
 
         u'media_first': ['MEDIA_PREVIOUS'],
-        u'media_last': ['MEDIA_NEXT']
+        u'media_last': ['MEDIA_NEXT'],
+
+        # Mouse keys  
+        u'mouse buttons': ['LMB','RMB','MMB','4MB','5MB'],
+        u'mouse scroll': ['MOUSE_SCROLL'],
     }
 
     VALID_KEYNAMES = None
