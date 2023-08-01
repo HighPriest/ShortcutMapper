@@ -1,0 +1,259 @@
+{
+    "name" : "Squad - Offworld Industries",
+    "version" : "WSAD",
+    "os" : "windows",
+    "mods_used" : [],
+    "default_context" : "Infantry",
+    "contexts" : {
+        "Infantry" : {
+            "ACCENT_GRAVE" : [
+                {"name":"Console", "mods":[]}
+            ],
+            "ALT" : [
+                {"name":"Freelook", "mods":[]}
+            ],
+            "B" : [
+                {"name":"_VOICE_ - Squad", "mods":[]}
+            ],
+            "C" : [
+                {"name":"Bipod", "mods":[]}
+            ],
+            "CAPSLOCK" : [
+                {"name":"Command Map", "mods":[]}
+            ],
+            "CONTROL" : [
+                {"name":"Crouch", "mods":[]}
+            ],
+            "E" : [
+                {"name":"Lean Right", "mods":[]}
+            ],
+            "F" : [
+                {"name":"Use/Enter Vehicle", "mods":[]}
+            ],
+            "FIVE" : [
+                {"name":"Medic Tools", "mods":[]}
+            ],
+            "FOUR" : [
+                {"name":"Smoke", "mods":[]}
+            ],
+            "G" : [
+                {"name":"_VOICE_ - Command", "mods":[]}
+            ],
+            "J" : [
+                {"name":"_CHAT_ All", "mods":[]}
+            ],
+            "K" : [
+                {"name":"_CHAT_ Team", "mods":[]}
+            ],
+            "L" : [
+                {"name":"_CHAT_ Squad", "mods":[]}
+            ],
+            "LEFT_ARROW" : [
+                {"name":"Rotate Deployable (L)", "mods":[]}
+            ],
+            "LMB" : [
+                {"name":"Fire", "mods":[]}
+            ],
+            "M" : [
+                {"name":"Map", "mods":[]}
+            ],
+            "MOUSE_SCROLL" : [
+                {"name":"Map Zoom/Ranging", "mods":[]}
+            ],
+            "NUMPAD_EIGHT" : [
+                {"name":"_VOICE_ Squad8", "mods":[]}
+            ],
+            "NUMPAD_FIVE" : [
+                {"name":"_VOICE_ Squad5", "mods":[]}
+            ],
+            "NUMPAD_FOUR" : [
+                {"name":"_VOICE_ Squad4", "mods":[]}
+            ],
+            "NUMPAD_NINE" : [
+                {"name":"_VOICE_ Squad9", "mods":[]}
+            ],
+            "NUMPAD_ONE" : [
+                {"name":"_VOICE_ Squad1", "mods":[]}
+            ],
+            "NUMPAD_SEVEN" : [
+                {"name":"_VOICE_ Squad7", "mods":[]}
+            ],
+            "NUMPAD_SIX" : [
+                {"name":"_VOICE_ Squad6", "mods":[]}
+            ],
+            "NUMPAD_THREE" : [
+                {"name":"_VOICE_ Squad3", "mods":[]}
+            ],
+            "NUMPAD_TWO" : [
+                {"name":"_VOICE_ Squad2", "mods":[]}
+            ],
+            "NUMPAD_ZERO" : [
+                {"name":"_VOICE_ COMMAND", "mods":[]}
+            ],
+            "ONE" : [
+                {"name":"Primary", "mods":[]}
+            ],
+            "Q" : [
+                {"name":"Lean Left", "mods":[]}
+            ],
+            "R" : [
+                {"name":"Reload", "mods":[]}
+            ],
+            "RIGHT_ARROW" : [
+                {"name":"Rotate Deployable (R)", "mods":[]}
+            ],
+            "RMB" : [
+                {"name":"Aim", "mods":[]}
+            ],
+            "SHIFT" : [
+                {"name":"Sprint/Focus", "mods":[]}
+            ],
+            "SIX" : [
+                {"name":"Binoculars/Repair", "mods":[]}
+            ],
+            "SPACE" : [
+                {"name":"Jump/Climb", "mods":[]}
+            ],
+            "T" : [
+                {"name":"Radial Command (SL)", "mods":[]}
+            ],
+            "TAB" : [
+                {"name":"Scoreboard", "mods":[]}
+            ],
+            "THREE" : [
+                {"name":"Grenade", "mods":[]}
+            ],
+            "TWO" : [
+                {"name":"Secondary/Knife", "mods":[]}
+            ],
+            "V" : [
+                {"name":"_VOICE_ - Local", "mods":[]}
+            ],
+            "X" : [
+                {"name":"Sight Ranging", "mods":[]}
+            ],
+            "Z" : [
+                {"name":"Prone", "mods":[]}
+            ]
+        },
+        "Vehicle" : {
+            "ACCENT_GRAVE" : [
+                {"name":"Console", "mods":[]}
+            ],
+            "B" : [
+                {"name":"_VOICE_ - Squad", "mods":[]}
+            ],
+            "BACKSLASH" : [
+                {"name":"Hold gear", "mods":[]}
+            ],
+            "CAPSLOCK" : [
+                {"name":"Command Map", "mods":[]}
+            ],
+            "E" : [
+                {"name":"Engine On/Off", "mods":[]}
+            ],
+            "F" : [
+                {"name":"Use/Exit Vehicle", "mods":[]}
+            ],
+            "F1" : [
+                {"name":"SEAT DRIVER", "mods":[]}
+            ],
+            "F2" : [
+                {"name":"SEAT GUNNER", "mods":[]}
+            ],
+            "F3" : [
+                {"name":"SEAT COMMAND", "mods":[]}
+            ],
+            "F4" : [
+                {"name":"SEAT 4", "mods":[]}
+            ],
+            "F5" : [
+                {"name":"SEAT 5", "mods":[]}
+            ],
+            "F6" : [
+                {"name":"SEAT 6", "mods":[]}
+            ],
+            "F7" : [
+                {"name":"SEAT 7", "mods":[]}
+            ],
+            "F8" : [
+                {"name":"SEAT 8", "mods":[]}
+            ],
+            "F9" : [
+                {"name":"SEAT 9", "mods":[]}
+            ],
+            "G" : [
+                {"name":"_VOICE_ - Command", "mods":[]}
+            ],
+            "J" : [
+                {"name":"_CHAT_ All", "mods":[]}
+            ],
+            "K" : [
+                {"name":"_CHAT_ Team", "mods":[]}
+            ],
+            "L" : [
+                {"name":"_CHAT_ Squad", "mods":[]}
+            ],
+            "LMB" : [
+                {"name":"Fire", "mods":[]}
+            ],
+            "M" : [
+                {"name":"Map", "mods":[]}
+            ],
+            "MOUSE_SCROLL" : [
+                {"name":"Map Zoom", "mods":[]}
+            ],
+            "NUMPAD_EIGHT" : [
+                {"name":"_VOICE_ Squad8", "mods":[]}
+            ],
+            "NUMPAD_FIVE" : [
+                {"name":"_VOICE_ Squad5", "mods":[]}
+            ],
+            "NUMPAD_FOUR" : [
+                {"name":"_VOICE_ Squad4", "mods":[]}
+            ],
+            "NUMPAD_NINE" : [
+                {"name":"_VOICE_ Squad9", "mods":[]}
+            ],
+            "NUMPAD_ONE" : [
+                {"name":"_VOICE_ Squad1", "mods":[]}
+            ],
+            "NUMPAD_SEVEN" : [
+                {"name":"_VOICE_ Squad7", "mods":[]}
+            ],
+            "NUMPAD_SIX" : [
+                {"name":"_VOICE_ Squad6", "mods":[]}
+            ],
+            "NUMPAD_THREE" : [
+                {"name":"_VOICE_ Squad3", "mods":[]}
+            ],
+            "NUMPAD_TWO" : [
+                {"name":"_VOICE_ Squad2", "mods":[]}
+            ],
+            "NUMPAD_ZERO" : [
+                {"name":"_VOICE_ COMMAND", "mods":[]}
+            ],
+            "Q" : [
+                {"name":"Zoom", "mods":[]}
+            ],
+            "RMB" : [
+                {"name":"Aim", "mods":[]}
+            ],
+            "SPACE" : [
+                {"name":"Handbrake", "mods":[]}
+            ],
+            "T" : [
+                {"name":"Radial Command (SL)", "mods":[]}
+            ],
+            "TAB" : [
+                {"name":"Scoreboard", "mods":[]}
+            ],
+            "V" : [
+                {"name":"_VOICE_ - Local", "mods":[]}
+            ],
+            "Z" : [
+                {"name":"Turret stabilization", "mods":[]}
+            ]
+        }
+    }
+}
